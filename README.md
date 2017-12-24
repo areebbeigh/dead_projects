@@ -1,5 +1,3 @@
-# dead_projects
-
 ## What's this?
 
 This is a list of projects that I've killed off.
