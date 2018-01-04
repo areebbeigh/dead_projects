@@ -15,6 +15,7 @@ Also, TBH at the point of writing this I feel that many of my current projects a
 ## On Hiatus
 Projects on pause mode. (Lol, I might not even come back to these). Or maybe I'm (planning on) rewriting these because of the horrible code I'd written before. 
 
+- [anime-scraper](https://github.com/areebbeigh/anime-scraper)
 - [coding-portfolio](https://github.com/areebbeigh/coding-portfolio)
 - [Freya](https://github.com/areebbeigh/Freya)
 
